@@ -1,0 +1,6 @@
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/SystemView/Sample/FreeRTOSV11/SEGGER_SYSVIEW_FreeRTOS.c:80:13:_cbSendTaskList	2
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/SystemView/Sample/FreeRTOSV11/SEGGER_SYSVIEW_FreeRTOS.c:100:12:_cbGetTime	1
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/SystemView/Sample/FreeRTOSV11/SEGGER_SYSVIEW_FreeRTOS.c:129:6:SYSVIEW_AddTask	3
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/SystemView/Sample/FreeRTOSV11/SEGGER_SYSVIEW_FreeRTOS.c:159:6:SYSVIEW_UpdateTask	5
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/SystemView/Sample/FreeRTOSV11/SEGGER_SYSVIEW_FreeRTOS.c:190:6:SYSVIEW_DeleteTask	6
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/SystemView/Sample/FreeRTOSV11/SEGGER_SYSVIEW_FreeRTOS.c:231:6:SYSVIEW_SendTaskInfo	1

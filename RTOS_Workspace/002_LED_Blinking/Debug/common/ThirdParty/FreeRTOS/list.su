@@ -1,0 +1,5 @@
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/list.c:49:6:vListInitialise	16	static
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/list.c:89:6:vListInitialiseItem	16	static
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/list.c:105:6:vListInsertEnd	32	static
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/list.c:139:6:vListInsert	32	static
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/list.c:217:13:uxListRemove	24	static

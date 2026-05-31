@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="pend"/>
+		<item value="print"/>
+		<item value="segger"/>
+		<item value="YIELD"/>
+		<item value="init"/>
+		<item value="buffer"/>
+		<item value="SEGGER_SYSVIEW_Conf"/>
+		<item value="task1_handler"/>
+		<item value="idlehook"/>
+		<item value="task1_handle"/>
+		<item value="stackover"/>
+		<item value="hook"/>
+	</list>
+</section>

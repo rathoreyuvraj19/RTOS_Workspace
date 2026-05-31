@@ -1,0 +1,5 @@
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/portable/MemMang/heap_1.c:79:8:pvPortMalloc	24	static
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/portable/MemMang/heap_1.c:143:6:vPortFree	24	static,ignoring_inline_asm
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/portable/MemMang/heap_1.c:155:6:vPortInitialiseBlocks	4	static
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/portable/MemMang/heap_1.c:162:8:xPortGetFreeHeapSize	4	static
+C:/Users/ratho/Desktop/RTOS_Workspace/RTOS_Workspace/common/ThirdParty/FreeRTOS/portable/MemMang/heap_1.c:174:6:vPortHeapResetState	4	static
